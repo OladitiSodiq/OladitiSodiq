@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/oladitisodiqool" target="blank"><img src="https://img.shields.io/twitter/follow/oladitisodiqool?logo=twitter&style=for-the-badge" alt="oladitisodiqool" /></a> </p>
 
+- 🌱 I’m currently learning **Go**
+
 - 📝 I regularly write articles on [https://medium.com/@oladitisodiq](https://medium.com/@oladitisodiq)
 
 - 📫 How to reach me **Oladitisodiq@gmail.com, Twitter(X): oladitisodiqool**
@@ -28,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oladitisodiq&show_icons=true&locale=en" alt="oladitisodiq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oladitisodiq&" alt="oladitisodiq" /></p>
-
