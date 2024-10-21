@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [https://medium.com/@oladitisodiq](https://medium.com/@oladitisodiq)
+- 📝 I  write articles on [https://medium.com/@oladitisodiq](https://medium.com/@oladitisodiq)
 
 - 📫 How to reach me **Oladitisodiq@gmail.com, Twitter(X): oladitisodiqool**
 
